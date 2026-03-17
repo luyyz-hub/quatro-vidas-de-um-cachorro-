@@ -1,5 +1,4 @@
-.tit1{
-    background-color: palevioletred;
-    align-items: center;
-    justify-items: center;
+.cabeçalho{
+    display: flex;
+    justify-content: center;
 }
