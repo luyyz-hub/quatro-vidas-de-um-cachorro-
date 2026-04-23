@@ -1,11 +1,10 @@
 html{
     background-color: rgb(189, 58, 189);
 }
+
 p{
-    display: flex;
-    justify-content: center;
-    font-size: medium;
-    align-items: baseline;
+    text-justify: auto;
+    font-size: 15px;
 }
 
 img{
