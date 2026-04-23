@@ -1,3 +1,6 @@
+header{
+    display: flex;
+}
 html{
     background-color: rgb(189, 58, 189);
 }
@@ -5,11 +8,13 @@ html{
 p{
     text-justify: auto;
     font-size: 15px;
+
 }
 
 img{
-    display: flex;
     height: 254px;
     width: 400px;
+}
+h1{
     align-items: center;
 }
